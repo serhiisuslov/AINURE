@@ -1,0 +1,12 @@
+#llava-phi3:latest#
+AI stands for Artificial Intelligence, which refers to the development of computer systems that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. 
+AI has the potential to revolutionize many industries and improve people's lives by automating routine or dangerous tasks, providing personalized services, and making better decisions based on vast amounts of data. 
+However, there are also concerns about the ethical implications of AI, including job displacement, bias in decision-making algorithms, and the potential for autonomous weapons systems to be misused.
+
+
+#minicpm-v#
+AI stands for Artificial Intelligence. It refers to a branch of computer science that focuses on creating machines, computers or robots that can perform tasks and functions typically associated with human intelligence such as learning, reasoning, problem-solving, perception, understanding language, recognition and decision-making.
+
+The ultimate goal of artificial intelligence is to build intelligent systems that are capable of performing complex tasks without explicit programming. These AI systems use various techniques like machine learning, natural language processing (NLP), computer vision, robotics, deep learning etc., to enhance their capabilities over time by training on large amounts of data and adapting to new situations.
+
+Overall, the definition of Artificial Intelligence is a broad field that encompasses many subfields such as cognitive science, computational linguistics, control systems, game theory, neuroinformatics, neuroscience, psychology, philosophy, mathematics, statistics and more.
